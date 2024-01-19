@@ -10,8 +10,8 @@ This Excel dashboard offers data-driven insights into coffee sales and customer 
 - Interactive Filters: Customize your exploration by applying filters on order date, roast type, loyalty card status, and size.
 Data Source:This dashboard utilizes data from [Kaggle's Coffee Sales Dataset](https://www.kaggle.com/datasets/mohammadkaiftahir/coffee-orders-data).
 
-** This dashboard leverages the rich "Coffee Product Analytics" dataset, offering detailed
-information about: **
+
+#### This dashboard leverages the rich "Coffee Product Analytics" dataset, offering detailed information about:
 - Product types (e.g., Ara, Exc)
 - Roast levels (e.g., light, medium, dark)
 - Sizes (e.g., small, medium, large)
