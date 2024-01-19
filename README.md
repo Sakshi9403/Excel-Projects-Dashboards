@@ -1,7 +1,7 @@
 # Coffee Sales Dashboard
 #### Overview
 
-This Excel dashboard offers data-driven insights into coffee sales and customer preferences, derived from the comprehensive "Coffee Product Analytics" dataset. It empowers you to analyze various coffee offerings—types, roast levels, sizes, and pricing to optimize product portfolio and sales strategies.
+This Excel dashboard offers data-driven insights into coffee sales and customer preferences, derived from the comprehensive "Coffee Orders Data" dataset. It empowers you to analyze various coffee offerings—types, roast levels, sizes, and pricing to optimize product portfolio and sales strategies.
 
 #### Key Features:
 - Sales Trends: Track overall sales performance and identify specific trends over time, across countries, and for different coffee types.
