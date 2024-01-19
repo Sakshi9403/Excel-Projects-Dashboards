@@ -5,10 +5,10 @@ This Excel dashboard offers data-driven insights into coffee sales and customer 
 
 #### Key Features:
 - Sales Trends: Track overall sales performance and identify specific trends over time, across countries, and for different coffee types.
-- Customer Insights: Discover your top customers and understand their purchasing behavior based on filters like roast preference and loyalty program usage.
+- Customer Insights: Discover top customers and understand their purchasing behavior based on filters like roast preference and loyalty program usage.
 - Product Performance: Analyze the profitability of each coffee product and gauge its popularity against rivals.
-- Interactive Filters: Customize your exploration by applying filters on order date, roast type, loyalty card status, and size.
-Data Source:This dashboard utilizes data from [Kaggle's Coffee Sales Dataset](https://www.kaggle.com/datasets/mohammadkaiftahir/coffee-orders-data).
+- Interactive Filters: Customize exploration by applying filters on order date, roast type, loyalty card status, and size.
+- Data Source: This dashboard utilizes data from [Kaggle's Coffee Sales Dataset](https://www.kaggle.com/datasets/mohammadkaiftahir/coffee-orders-data).
 
 
 #### This dashboard leverages the rich "Coffee Product Analytics" dataset, offering detailed information about:
@@ -22,6 +22,6 @@ Data Source:This dashboard utilizes data from [Kaggle's Coffee Sales Dataset](ht
 
 - Data-driven decision making: Gain insights to optimize product offerings, pricing strategies, and marketing campaigns.
 - Identify profitable products: Focus on coffee types and sizes that drive higher margins and customer satisfaction.
-- Understand customer preferences: Tailor your approach based on buying patterns and roast level preferences.
+- Understand customer preferences: Tailor approach based on buying patterns and roast level preferences.
 - Improve sales performance: Track key metrics and monitor progress towards sales goals.
 
